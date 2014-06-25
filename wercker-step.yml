@@ -1,0 +1,7 @@
+name: composer-env
+version: 0.0.1
+description: Setup Composer environment
+keywords:
+  - php
+  - composer
+
